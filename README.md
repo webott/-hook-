@@ -22,4 +22,4 @@ hook原理其实就是改变程序执行流程的一种技术的统称
 7.接收各种消息
 
 等等更多功能未一次写完，可二次开发。 有c#调用封装接口实现的功能，其他开发语言也可以二次开发。 Q：2645542961，欢迎技术交流
-![image](https://github.com/webott/-hook-/blob/main/%E6%9C%89%E8%81%94%E7%B3%BB%E4%BF%A1%E6%81%AF.jpg)
+![image](https://github.com/webott/-hook-/commit/72dface59f27b8e3d1839a613f58043de47969f6)
